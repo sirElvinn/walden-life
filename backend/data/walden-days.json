@@ -4,50 +4,169 @@
     "date": "1845-07-04",
     "season": "summer",
     "chapter_ref": "Economy",
-    "summary": "Thoreau moves into his hand-built cabin at Walden Pond. The frame is raised, the walls unfinished, but he is finally here.",
-    "activities": ["moving in", "building", "surveying the land"],
-    "food": ["rye bread", "salt", "rice"],
+    "summary": "Thoreau moves into his unfinished cabin at Walden Pond on Independence Day. The frame is up, the roof on, but the walls are not yet plastered. He chose this day deliberately — his own declaration of independence.",
+    "activities": ["moving in", "settling the cabin", "surveying the land", "walking the pond's edge"],
+    "food": ["rye and Indian meal bread", "salt"],
     "quotes": [
       {
-        "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life.",
+        "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.",
         "source": "Where I Lived, and What I Lived For"
       }
     ],
-    "weather": "clear",
-    "reflection": "Independence Day — a fitting day for Thoreau's own declaration of independence from society."
+    "weather": "clear, warm summer day",
+    "reflection": "He moved in on the Fourth of July — no accident. The date is a quiet joke and a serious statement both."
   },
   {
     "id": 2,
     "date": "1845-07-05",
     "season": "summer",
     "chapter_ref": "Economy",
-    "summary": "He begins plastering the walls. Counts the exact cost of building materials — boards, shingles, bricks.",
-    "activities": ["plastering", "accounting", "writing in journal"],
-    "food": ["Indian meal porridge", "molasses"],
+    "summary": "First full day at the pond. Thoreau tallies the exact cost of building his cabin — every board, every nail, every brick. The total comes to $28.12½. He records it with a satisfaction bordering on pride.",
+    "activities": ["accounting", "recording expenses", "light carpentry", "writing in journal"],
+    "food": ["Indian meal porridge", "molasses", "rice"],
     "quotes": [
       {
-        "text": "The cost of a thing is the amount of what I will call life which is required to be exchanged for it.",
+        "text": "The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.",
         "source": "Economy"
       }
     ],
-    "weather": "warm",
-    "reflection": "Thoreau tracks every penny. His total building cost: $28.12½."
+    "weather": "warm, still",
+    "reflection": "His building costs: boards $8.03½, refuse shingles $4.00, laths $1.25, two second-hand windows $2.43, one thousand old bricks $4.00. Every penny matters when every penny is time."
   },
   {
     "id": 3,
     "date": "1845-07-06",
     "season": "summer",
-    "chapter_ref": "Economy",
-    "summary": "First morning waking at the pond. He walks to the water at dawn and watches the mist lift.",
-    "activities": ["walking", "observing the pond", "bathing in the pond"],
-    "food": ["bread", "berries from the woods"],
+    "chapter_ref": "Where I Lived, and What I Lived For",
+    "summary": "First morning waking at Walden. He rises before the mist has lifted and walks to the water. The pond is glassy and still. He bathes in it — cold, quiet, clarifying. This becomes his morning ritual.",
+    "activities": ["bathing in the pond", "walking at dawn", "observing mist on the water"],
+    "food": ["bread", "wild berries found near the woods"],
     "quotes": [
       {
-        "text": "Every morning was a cheerful invitation to make my life of equal simplicity.",
+        "text": "Every morning was a cheerful invitation to make my life of equal simplicity, and I may say innocence, with Nature herself.",
         "source": "Where I Lived, and What I Lived For"
       }
     ],
-    "weather": "misty dawn, clearing",
-    "reflection": "The pond becomes his mirror and his clock. He bathes here every morning."
+    "weather": "misty at dawn, clearing by midmorning",
+    "reflection": "The morning bath in the pond was not luxury — it was philosophy made physical. Wake up. Go to the water. Begin."
+  },
+  {
+    "id": 4,
+    "date": "1845-07-07",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "Thoreau works on plastering the interior walls of the cabin. The work is slow, satisfying. He notes how the house begins to feel inhabited only now — when it holds warmth.",
+    "activities": ["plastering walls", "cabin construction", "observing swallows nesting nearby"],
+    "food": ["rye bread", "potatoes boiled over the fire"],
+    "quotes": [
+      {
+        "text": "I did not need to go outdoors to take the air, for the atmosphere within had lost none of its freshness.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "overcast, mild",
+    "reflection": "The swallows built their nest in the cabin before he was done building it himself. He took that as a good sign."
+  },
+  {
+    "id": 5,
+    "date": "1845-07-08",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "He plants his bean field — two and a half acres. This will become his great outdoor project and his livelihood. Hoeing in the early morning, he finds the work meditative rather than laborious.",
+    "activities": ["planting beans", "hoeing", "walking the field at dusk"],
+    "food": ["cornmeal hasty pudding", "salt pork"],
+    "quotes": [
+      {
+        "text": "I came to love my rows, my beans, though so many more than I wanted. They attached me to the earth, and so I got strength like Antaeus.",
+        "source": "The Bean-Field"
+      }
+    ],
+    "weather": "sunny, hot by afternoon",
+    "reflection": "Two and a half acres of beans. He will hoe them by hand, alone, through the whole summer. The field is both farm and poem."
+  },
+  {
+    "id": 6,
+    "date": "1845-07-09",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "Thoreau spends the morning sitting in his sunny doorway, lost in a reverie that lasts until noon. He does not read, does not write — just sits. He refuses to call this idleness.",
+    "activities": ["sitting in doorway", "watching birds", "listening to the woods", "contemplating"],
+    "food": ["bread", "berries", "water from the pond"],
+    "quotes": [
+      {
+        "text": "I grew in those seasons like corn in the night, and they were far better than any work of the hands would have been.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "clear, warm, no wind",
+    "reflection": "He sat for hours doing nothing visible. He called it growth. He may have been right."
+  },
+  {
+    "id": 7,
+    "date": "1845-07-10",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "The Fitchburg Railroad runs near the pond and its whistle tears through the morning. Thoreau watches the train pass with complicated feelings — commerce, speed, ambition all shrieking by while he hoes beans.",
+    "activities": ["hoeing beans", "watching the railroad", "reading in the afternoon"],
+    "food": ["rice", "salt", "water"],
+    "quotes": [
+      {
+        "text": "We do not ride on the railroad; it rides upon us.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "hazy, humid",
+    "reflection": "The train passed at almost the same hour each day. He noticed it the way you notice a clock — with irritation and then with something like awe at its regularity."
+  },
+  {
+    "id": 8,
+    "date": "1845-07-11",
+    "season": "summer",
+    "chapter_ref": "Solitude",
+    "summary": "A rare visitor comes — a fisherman who sits at the edge of the pond all afternoon without speaking. Thoreau watches from a distance and feels no need to go closer. The presence of another human is enough.",
+    "activities": ["observing the fisherman", "walking the woods", "writing in journal", "evening reading"],
+    "food": ["bread baked on the cabin fire", "molasses", "tea made from forest plants"],
+    "quotes": [
+      {
+        "text": "I have never felt lonesome, or in the least oppressed by a sense of solitude, but once, and that was a few weeks after I came to the woods.",
+        "source": "Solitude"
+      }
+    ],
+    "weather": "partly cloudy, pleasant",
+    "reflection": "Solitude, he insists, is not loneliness. Loneliness is the feeling of being with the wrong people."
+  },
+  {
+    "id": 9,
+    "date": "1845-07-12",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "He rows out onto Walden Pond at night, playing his flute. The perch and eels circle beneath the boat, drawn to the sound or the reflected moonlight. He lets the boat drift and plays until midnight.",
+    "activities": ["rowing on the pond", "playing flute", "night fishing", "stargazing from the boat"],
+    "food": ["fish caught from the pond, cooked over open fire", "bread"],
+    "quotes": [
+      {
+        "text": "A lake is the landscape's most beautiful and expressive feature. It is earth's eye; looking into which the beholder measures the depth of his own nature.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "clear night, full moon",
+    "reflection": "He called the pond earth's eye. If so, he spent that night staring directly into it, flute in hand."
+  },
+  {
+    "id": 10,
+    "date": "1845-07-13",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "First Sunday at the pond. No hoeing, no building. He walks to the village of Concord in the afternoon — a two-mile walk — to collect a few supplies and hear the news. But he returns quickly. The village feels loud.",
+    "activities": ["walking to Concord", "collecting supplies", "observing village life", "returning to the pond by evening"],
+    "food": ["sugar", "lard", "flour purchased in the village", "baked bread on return"],
+    "quotes": [
+      {
+        "text": "I had not lived there a week before my feet wore a path from my door to the pond-side.",
+        "source": "Where I Lived, and What I Lived For"
+      }
+    ],
+    "weather": "fine summer Sunday, warm",
+    "reflection": "Every week he walked to town. Every week he was glad to leave. The path back to the pond grew more worn than the path out."
   }
 ]
