@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "date": "1845-07-04",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "Thoreau moves into his hand-built cabin at Walden Pond. The frame is raised, the walls unfinished, but he is finally here.",
+    "activities": ["moving in", "building", "surveying the land"],
+    "food": ["rye bread", "salt", "rice"],
+    "quotes": [
+      {
+        "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life.",
+        "source": "Where I Lived, and What I Lived For"
+      }
+    ],
+    "weather": "clear",
+    "reflection": "Independence Day — a fitting day for Thoreau's own declaration of independence from society."
+  },
+  {
+    "id": 2,
+    "date": "1845-07-05",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "He begins plastering the walls. Counts the exact cost of building materials — boards, shingles, bricks.",
+    "activities": ["plastering", "accounting", "writing in journal"],
+    "food": ["Indian meal porridge", "molasses"],
+    "quotes": [
+      {
+        "text": "The cost of a thing is the amount of what I will call life which is required to be exchanged for it.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "warm",
+    "reflection": "Thoreau tracks every penny. His total building cost: $28.12½."
+  },
+  {
+    "id": 3,
+    "date": "1845-07-06",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "First morning waking at the pond. He walks to the water at dawn and watches the mist lift.",
+    "activities": ["walking", "observing the pond", "bathing in the pond"],
+    "food": ["bread", "berries from the woods"],
+    "quotes": [
+      {
+        "text": "Every morning was a cheerful invitation to make my life of equal simplicity.",
+        "source": "Where I Lived, and What I Lived For"
+      }
+    ],
+    "weather": "misty dawn, clearing",
+    "reflection": "The pond becomes his mirror and his clock. He bathes here every morning."
+  }
+]
