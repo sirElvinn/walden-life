@@ -1,14 +1,8 @@
-import { useState } from 'react'
+import Landing from './Landing.jsx'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-      This is Walden
-    </>
-  )
+  return <Landing />
 }
 
 export default App
