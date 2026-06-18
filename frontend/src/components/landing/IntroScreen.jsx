@@ -8,7 +8,12 @@ export default function IntroScreen({
   return (
     <div className={`intro ${phase}`} onClick={phase === 'idle' ? onStart : undefined}>
       <div className={`intro-frame ${frameVisible ? 'visible' : ''}`}>
-        <img src={currentFrame.src} alt={currentFrame.caption} className="intro-frame-image" />
+        <img
+          src={currentFrame.src}
+          alt={currentFrame.caption}
+          className="intro-frame-image"
+          style={{ objectPosition: currentFrame.position ?? 'center' }}
+        />
       </div>
 
       <div className="intro-overlay" />
