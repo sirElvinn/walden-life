@@ -1,24 +1,19 @@
 import { useState, useEffect, useRef } from 'react'
-import './Landing.css'
-import { INTRO_FRAMES } from './data/introFrames'
-import IntroScreen from './components/landing/IntroScreen'
-import LandingContent from './components/landing/LandingContent'
+import { INTRO_FRAMES } from '../config/introFrames'
 
 const FRAME_DURATION = 600
 
-export default function Landing() {
-  const [phase, setPhase]               = useState('idle')   // 'idle' | 'playing' | 'landing'
-  const [frameIndex, setFrameIndex]     = useState(0)
+export function useIntroSequence() {
+  const [phase, setPhase] = useState('idle')
+  const [frameIndex, setFrameIndex] = useState(0)
   const [frameVisible, setFrameVisible] = useState(false)
-  const [landingIn, setLandingIn]       = useState(false)
-  const timerRef                        = useRef(null)
+  const [landingIn, setLandingIn] = useState(false)
+  const timerRef = useRef(null)
 
-  
   useEffect(() => {
     if (phase !== 'playing') return
 
     if (frameIndex >= INTRO_FRAMES.length) {
-      // All frames done — cross-fade to landing
       setTimeout(() => {
         setPhase('landing')
         setTimeout(() => setLandingIn(true), 80)
@@ -63,17 +58,13 @@ export default function Landing() {
 
   const currentFrame = INTRO_FRAMES[Math.min(frameIndex, INTRO_FRAMES.length - 1)]
 
-  if (phase === 'idle' || phase === 'playing') {
-    return (
-      <IntroScreen
-        phase={phase}
-        frameVisible={frameVisible}
-        currentFrame={currentFrame}
-        onStart={start}
-        onSkip={skip}
-      />
-    )
+  return {
+    phase,
+    frameVisible,
+    landingIn,
+    currentFrame,
+    start,
+    skip,
+    replay,
   }
-
-  return <LandingContent landingIn={landingIn} onReplay={replay} />
 }

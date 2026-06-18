@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { ROUTES } from '../../../config/routes'
 
 export default function LandingContent({ landingIn, onReplay }) {
   return (
@@ -14,8 +15,8 @@ export default function LandingContent({ landingIn, onReplay }) {
         essential facts of life."
       </blockquote>
       <div className="landing-actions">
-        <Link to="/day/1" className="btn-primary">Begin Day 1</Link>
-        <Link to="/timeline" className="btn-secondary">View all days</Link>
+        <Link to={ROUTES.day(1)} className="btn-primary">Begin Day 1</Link>
+        <Link to={ROUTES.timeline} className="btn-secondary">View all days</Link>
       </div>
       <p className="landing-meta">730 days · 18 chapters · 1 pond</p>
       <button className="landing-replay" onClick={onReplay}>↺ Replay intro</button>

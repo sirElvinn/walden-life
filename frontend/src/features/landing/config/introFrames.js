@@ -7,7 +7,7 @@ import {
   walden6,
   walden7,
   walden8,
-} from '../assets/waldenImages'
+} from '../../../assets/waldenImages'
 
 // position controls which part of the image stays in view when cropped (object-fit: cover).
 // Tweak per image so the subject stays centered — e.g. 'center', 'center top', '50% 35%'.
