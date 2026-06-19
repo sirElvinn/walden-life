@@ -1,11 +1,12 @@
 :root {
   --serif: Georgia, 'Times New Roman', serif;
-  --text: #e8e4dc;
-  --text-h: #f5f2ea;
-  --text-dim: #9a9288;
+  --text: #4a4540;
+  --text-h: #1a1816;
+  --text-dim: #8a8378;
   --accent: #5c7a5c;
-  --border: #3a3630;
-  --bg-card: #1a1816;
+  --border: #e5e4e7;
+  --bg-card: #f4f3ec;
+  --bg: #fff;
 }
 
 * {
@@ -15,7 +16,7 @@
 body {
   margin: 0;
   font-family: system-ui, -apple-system, sans-serif;
-  background: #0f0e0d;
+  background: var(--bg);
   color: var(--text);
 }
 
