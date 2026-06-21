@@ -1,5 +1,5 @@
-import { LandingView } from '../features/landing'
+import LandingContent from '../components/LandingContent'
 
-export default function Landing() {
-  return <LandingView />
+export default function LandingPage() {
+  return <LandingContent />
 }

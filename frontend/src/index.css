@@ -1,49 +1,55 @@
-:root {
-  --serif:     Georgia, 'Times New Roman', serif;
-  --sans:      system-ui, -apple-system, sans-serif;
+@import "tailwindcss";
 
-  --bg:        #faf9f6;
-  --bg-card:   #ffffff;
-  --text:      #4a4540;
-  --text-h:    #1a1714;
-  --text-dim:  #8c857e;
-  --border:    #e8e4de;
-  --accent:    #5c6b3e;
-  --accent-lt: #eef1e8;
+@theme {
+  --font-serif: Georgia, "Times New Roman", serif;
+  --font-sans: system-ui, -apple-system, sans-serif;
+
+  --color-bg: #faf9f6;
+  --color-bg-card: #ffffff;
+  --color-text: #4a4540;
+  --color-text-h: #1a1714;
+  --color-text-dim: #8c857e;
+  --color-border: #e8e4de;
+  --color-accent: #5c6b3e;
+  --color-accent-lt: #eef1e8;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg:        #16150f;
-    --bg-card:   #1e1d16;
-    --text:      #b0aa9f;
-    --text-h:    #f0ece4;
-    --text-dim:  #6b6459;
-    --border:    #2e2c23;
-    --accent:    #8aaa58;
-    --accent-lt: #1e2418;
+@layer base {
+  html {
+    color-scheme: light;
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    @apply bg-bg font-sans text-lg leading-relaxed text-text antialiased;
+  }
+
+  #root {
+    @apply mx-auto min-h-svh max-w-[720px] px-6;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-medium leading-tight text-text-h;
+  }
+
+  a {
+    @apply text-accent no-underline;
+  }
+
+  a:hover {
+    @apply underline;
+  }
+
+  p {
+    @apply m-0;
   }
 }
-
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-body {
-  font-family: var(--sans);
-  font-size: 18px;
-  line-height: 1.7;
-  background: var(--bg);
-  color: var(--text);
-  -webkit-font-smoothing: antialiased;
-}
-
-#root {
-  max-width: 720px;
-  margin: 0 auto;
-  min-height: 100svh;
-  padding: 0 24px;
-}
-
-h1, h2, h3 { color: var(--text-h); font-weight: 500; line-height: 1.25; }
-a { color: var(--accent); text-decoration: none; }
-a:hover { text-decoration: underline; }
-p { margin: 0; }
