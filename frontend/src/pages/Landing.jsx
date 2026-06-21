@@ -1,5 +1,5 @@
 import { LandingView } from '../features/landing'
 
-export default function LandingPage() {
+export default function Landing() {
   return <LandingView />
 }
