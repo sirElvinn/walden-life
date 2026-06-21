@@ -59,12 +59,12 @@ export function useIntroSequence() {
   const currentFrame = INTRO_FRAMES[Math.min(frameIndex, INTRO_FRAMES.length - 1)]
 
   return {
-    phase,
-    frameVisible,
-    landingIn,
-    currentFrame,
-    start,
-    skip,
-    replay,
+      phase,
+      frameVisible,
+      landingIn,
+      currentFrame,
+      start,
+      skip,
+      replay,
   }
 }
