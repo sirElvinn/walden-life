@@ -5,8 +5,16 @@
     "season": "summer",
     "chapter_ref": "Economy",
     "summary": "Thoreau moves into his unfinished cabin at Walden Pond on Independence Day. The frame is up, the roof on, but the walls are not yet plastered. He chose this day deliberately — his own declaration of independence.",
-    "activities": ["moving in", "settling the cabin", "surveying the land", "walking the pond's edge"],
-    "food": ["rye and Indian meal bread", "salt"],
+    "activities": [
+      "moving in",
+      "settling the cabin",
+      "surveying the land",
+      "walking the pond's edge"
+    ],
+    "food": [
+      "rye and Indian meal bread",
+      "salt"
+    ],
     "quotes": [
       {
         "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.",
@@ -22,8 +30,17 @@
     "season": "summer",
     "chapter_ref": "Economy",
     "summary": "First full day at the pond. Thoreau tallies the exact cost of building his cabin — every board, every nail, every brick. The total comes to $28.12½. He records it with a satisfaction bordering on pride.",
-    "activities": ["accounting", "recording expenses", "light carpentry", "writing in journal"],
-    "food": ["Indian meal porridge", "molasses", "rice"],
+    "activities": [
+      "accounting",
+      "recording expenses",
+      "light carpentry",
+      "writing in journal"
+    ],
+    "food": [
+      "Indian meal porridge",
+      "molasses",
+      "rice"
+    ],
     "quotes": [
       {
         "text": "The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.",
@@ -39,8 +56,15 @@
     "season": "summer",
     "chapter_ref": "Where I Lived, and What I Lived For",
     "summary": "First morning waking at Walden. He rises before the mist has lifted and walks to the water. The pond is glassy and still. He bathes in it — cold, quiet, clarifying. This becomes his morning ritual.",
-    "activities": ["bathing in the pond", "walking at dawn", "observing mist on the water"],
-    "food": ["bread", "wild berries found near the woods"],
+    "activities": [
+      "bathing in the pond",
+      "walking at dawn",
+      "observing mist on the water"
+    ],
+    "food": [
+      "bread",
+      "wild berries found near the woods"
+    ],
     "quotes": [
       {
         "text": "Every morning was a cheerful invitation to make my life of equal simplicity, and I may say innocence, with Nature herself.",
@@ -56,8 +80,15 @@
     "season": "summer",
     "chapter_ref": "Economy",
     "summary": "Thoreau works on plastering the interior walls of the cabin. The work is slow, satisfying. He notes how the house begins to feel inhabited only now — when it holds warmth.",
-    "activities": ["plastering walls", "cabin construction", "observing swallows nesting nearby"],
-    "food": ["rye bread", "potatoes boiled over the fire"],
+    "activities": [
+      "plastering walls",
+      "cabin construction",
+      "observing swallows nesting nearby"
+    ],
+    "food": [
+      "rye bread",
+      "potatoes boiled over the fire"
+    ],
     "quotes": [
       {
         "text": "I did not need to go outdoors to take the air, for the atmosphere within had lost none of its freshness.",
@@ -73,8 +104,15 @@
     "season": "summer",
     "chapter_ref": "Economy",
     "summary": "He plants his bean field — two and a half acres. This will become his great outdoor project and his livelihood. Hoeing in the early morning, he finds the work meditative rather than laborious.",
-    "activities": ["planting beans", "hoeing", "walking the field at dusk"],
-    "food": ["cornmeal hasty pudding", "salt pork"],
+    "activities": [
+      "planting beans",
+      "hoeing",
+      "walking the field at dusk"
+    ],
+    "food": [
+      "cornmeal hasty pudding",
+      "salt pork"
+    ],
     "quotes": [
       {
         "text": "I came to love my rows, my beans, though so many more than I wanted. They attached me to the earth, and so I got strength like Antaeus.",
@@ -90,8 +128,17 @@
     "season": "summer",
     "chapter_ref": "Sounds",
     "summary": "Thoreau spends the morning sitting in his sunny doorway, lost in a reverie that lasts until noon. He does not read, does not write — just sits. He refuses to call this idleness.",
-    "activities": ["sitting in doorway", "watching birds", "listening to the woods", "contemplating"],
-    "food": ["bread", "berries", "water from the pond"],
+    "activities": [
+      "sitting in doorway",
+      "watching birds",
+      "listening to the woods",
+      "contemplating"
+    ],
+    "food": [
+      "bread",
+      "berries",
+      "water from the pond"
+    ],
     "quotes": [
       {
         "text": "I grew in those seasons like corn in the night, and they were far better than any work of the hands would have been.",
@@ -107,8 +154,16 @@
     "season": "summer",
     "chapter_ref": "Sounds",
     "summary": "The Fitchburg Railroad runs near the pond and its whistle tears through the morning. Thoreau watches the train pass with complicated feelings — commerce, speed, ambition all shrieking by while he hoes beans.",
-    "activities": ["hoeing beans", "watching the railroad", "reading in the afternoon"],
-    "food": ["rice", "salt", "water"],
+    "activities": [
+      "hoeing beans",
+      "watching the railroad",
+      "reading in the afternoon"
+    ],
+    "food": [
+      "rice",
+      "salt",
+      "water"
+    ],
     "quotes": [
       {
         "text": "We do not ride on the railroad; it rides upon us.",
@@ -124,8 +179,17 @@
     "season": "summer",
     "chapter_ref": "Solitude",
     "summary": "A rare visitor comes — a fisherman who sits at the edge of the pond all afternoon without speaking. Thoreau watches from a distance and feels no need to go closer. The presence of another human is enough.",
-    "activities": ["observing the fisherman", "walking the woods", "writing in journal", "evening reading"],
-    "food": ["bread baked on the cabin fire", "molasses", "tea made from forest plants"],
+    "activities": [
+      "observing the fisherman",
+      "walking the woods",
+      "writing in journal",
+      "evening reading"
+    ],
+    "food": [
+      "bread baked on the cabin fire",
+      "molasses",
+      "tea made from forest plants"
+    ],
     "quotes": [
       {
         "text": "I have never felt lonesome, or in the least oppressed by a sense of solitude, but once, and that was a few weeks after I came to the woods.",
@@ -141,8 +205,16 @@
     "season": "summer",
     "chapter_ref": "The Ponds",
     "summary": "He rows out onto Walden Pond at night, playing his flute. The perch and eels circle beneath the boat, drawn to the sound or the reflected moonlight. He lets the boat drift and plays until midnight.",
-    "activities": ["rowing on the pond", "playing flute", "night fishing", "stargazing from the boat"],
-    "food": ["fish caught from the pond, cooked over open fire", "bread"],
+    "activities": [
+      "rowing on the pond",
+      "playing flute",
+      "night fishing",
+      "stargazing from the boat"
+    ],
+    "food": [
+      "fish caught from the pond, cooked over open fire",
+      "bread"
+    ],
     "quotes": [
       {
         "text": "A lake is the landscape's most beautiful and expressive feature. It is earth's eye; looking into which the beholder measures the depth of his own nature.",
@@ -158,8 +230,18 @@
     "season": "summer",
     "chapter_ref": "Economy",
     "summary": "First Sunday at the pond. No hoeing, no building. He walks to the village of Concord in the afternoon — a two-mile walk — to collect a few supplies and hear the news. But he returns quickly. The village feels loud.",
-    "activities": ["walking to Concord", "collecting supplies", "observing village life", "returning to the pond by evening"],
-    "food": ["sugar", "lard", "flour purchased in the village", "baked bread on return"],
+    "activities": [
+      "walking to Concord",
+      "collecting supplies",
+      "observing village life",
+      "returning to the pond by evening"
+    ],
+    "food": [
+      "sugar",
+      "lard",
+      "flour purchased in the village",
+      "baked bread on return"
+    ],
     "quotes": [
       {
         "text": "I had not lived there a week before my feet wore a path from my door to the pond-side.",
@@ -168,5 +250,2233 @@
     ],
     "weather": "fine summer Sunday, warm",
     "reflection": "Every week he walked to town. Every week he was glad to leave. The path back to the pond grew more worn than the path out."
+  },
+  {
+    "id": 11,
+    "date": "1845-07-14",
+    "season": "summer",
+    "chapter_ref": "Solitude",
+    "summary": "Thoreau reflects on what it means to be alone. He argues that he has never felt more companioned — by the rain, the night sounds, the creatures of the pond. Loneliness, he decides, is a state of mind, not a condition of place.",
+    "activities": [
+      "writing in journal",
+      "listening to rain",
+      "evening walk"
+    ],
+    "food": [
+      "bread",
+      "rice boiled with salt"
+    ],
+    "quotes": [
+      {
+        "text": "I find it wholesome to be alone the greater part of the time. To be in company, even with the best, is soon wearisome and dissipating.",
+        "source": "Solitude"
+      }
+    ],
+    "weather": "light rain in the evening",
+    "reflection": "He makes a distinction no one had quite made before: solitude is not the absence of people but the presence of oneself."
+  },
+  {
+    "id": 12,
+    "date": "1845-07-15",
+    "season": "summer",
+    "chapter_ref": "Visitors",
+    "summary": "Three chairs in the cabin — one for solitude, two for friendship, three for society. Thoreau rarely needs the third. Today a woodchopper named Alek Therien visits and they talk for hours. Thoreau finds him genuinely wise despite having read almost nothing.",
+    "activities": [
+      "receiving visitor",
+      "conversation",
+      "woodchopping nearby"
+    ],
+    "food": [
+      "cornmeal bread",
+      "molasses",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I had three chairs in my house; one for solitude, two for friendship, three for society.",
+        "source": "Visitors"
+      }
+    ],
+    "weather": "warm and clear",
+    "reflection": "Therien was Thoreau's favourite kind of visitor — unpolished, unaffected, and genuinely present."
+  },
+  {
+    "id": 13,
+    "date": "1845-07-16",
+    "season": "summer",
+    "chapter_ref": "The Bean-Field",
+    "summary": "A long morning in the bean field. Thoreau hoes for hours, thinking about ancient farmers who worked the same motions. The field teaches him patience. By noon his hands are blistered but his mind is quiet.",
+    "activities": [
+      "hoeing beans",
+      "weeding",
+      "resting under a tree at midday"
+    ],
+    "food": [
+      "cold potatoes from the night before",
+      "salt",
+      "well water"
+    ],
+    "quotes": [
+      {
+        "text": "It was a singular experience that long acquaintance which I cultivated with beans, what with planting, and hoeing, and harvesting, and threshing, and picking over and selling them.",
+        "source": "The Bean-Field"
+      }
+    ],
+    "weather": "hot, direct sun, no clouds",
+    "reflection": "He made $8.71 profit from the beans that summer. He considered this beside the point."
+  },
+  {
+    "id": 14,
+    "date": "1845-07-17",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "The whippoorwills begin at dusk and sing until midnight. Thoreau lies in the cabin listening, the door open to the night air. He finds their repetition hypnotic rather than irritating — a natural clock marking the hours.",
+    "activities": [
+      "listening to birds at dusk",
+      "writing",
+      "sitting outside after dark"
+    ],
+    "food": [
+      "rye bread",
+      "berries picked that afternoon"
+    ],
+    "quotes": [
+      {
+        "text": "The whippoorwills chanted their vespers for half an hour, sitting on a stump by my door.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "warm evening, clear sky",
+    "reflection": "He catalogued every sound the night made. The woods were never silent to him."
+  },
+  {
+    "id": 15,
+    "date": "1845-07-18",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "Thoreau walks to Concord and visits his family. His mother asks if he is eating well. He says yes. He picks up some supplies — salt pork, a little flour — and walks back. The two-mile return feels like coming home.",
+    "activities": [
+      "walking to Concord",
+      "visiting family",
+      "collecting supplies",
+      "walking back"
+    ],
+    "food": [
+      "home-cooked meal at his mother's",
+      "salt pork purchased",
+      "flour"
+    ],
+    "quotes": [
+      {
+        "text": "I would not have any one adopt my mode of living on any account.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "hazy, warm afternoon",
+    "reflection": "His family worried. He was more comfortable than they imagined."
+  },
+  {
+    "id": 16,
+    "date": "1845-07-19",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "He measures Walden Pond for the first time — walking its perimeter and counting paces. The pond is larger than he expected. He notes its extraordinary clarity, looking down through twenty feet of water to the sandy bottom.",
+    "activities": [
+      "measuring the pond perimeter",
+      "swimming",
+      "observing underwater through the clear water"
+    ],
+    "food": [
+      "fish caught from the pond",
+      "bread"
+    ],
+    "quotes": [
+      {
+        "text": "Walden is blue at one time and green at another, even from the same point of view.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "clear, the water perfectly still in the morning",
+    "reflection": "He would eventually map the pond with scientific precision, disproving the myth that it was bottomless."
+  },
+  {
+    "id": 17,
+    "date": "1845-07-20",
+    "season": "summer",
+    "chapter_ref": "Higher Laws",
+    "summary": "Walking back from the pond at dusk, Thoreau sees a woodchuck and feels a sudden wild urge to seize and devour it raw. He is disturbed and fascinated by this instinct. He spends the evening writing about the tension between wildness and civilization within himself.",
+    "activities": [
+      "walking at dusk",
+      "observing wildlife",
+      "writing at length"
+    ],
+    "food": [
+      "vegetable broth",
+      "bread",
+      "boiled rice"
+    ],
+    "quotes": [
+      {
+        "text": "I found in myself, and still find, an instinct toward a higher, or, as it is named, spiritual life, and another toward a primitive rank and savage one.",
+        "source": "Higher Laws"
+      }
+    ],
+    "weather": "cooling quickly after sunset",
+    "reflection": "He was honest about his own contradictions in a way few writers of his era were."
+  },
+  {
+    "id": 18,
+    "date": "1845-07-21",
+    "season": "summer",
+    "chapter_ref": "The Bean-Field",
+    "summary": "Thoreau sells his first batch of beans in Concord market. He records every transaction carefully. The profit is small but real. He reflects that he has earned his living by the sweat of his brow for the first time.",
+    "activities": [
+      "carrying beans to market",
+      "selling produce",
+      "recording accounts"
+    ],
+    "food": [
+      "market bread bought in Concord",
+      "cheese"
+    ],
+    "quotes": [
+      {
+        "text": "I was determined to know beans.",
+        "source": "The Bean-Field"
+      }
+    ],
+    "weather": "fair market day",
+    "reflection": "He grew more than he could eat and sold the rest. Even at Walden, he was connected to the economy he critiqued."
+  },
+  {
+    "id": 19,
+    "date": "1845-07-22",
+    "season": "summer",
+    "chapter_ref": "Solitude",
+    "summary": "A day of complete stillness. No visitors. He does not go to town. He reads Homer in the morning, hoes in the afternoon, and sits by the pond as the light fades. He notes that he feels no lack.",
+    "activities": [
+      "reading Homer",
+      "hoeing",
+      "sitting by the pond at sunset"
+    ],
+    "food": [
+      "bread",
+      "boiled Indian meal",
+      "molasses"
+    ],
+    "quotes": [
+      {
+        "text": "I love to be alone. I never found the companion that was so companionable as solitude.",
+        "source": "Solitude"
+      }
+    ],
+    "weather": "perfect summer day, slight breeze off the pond",
+    "reflection": "Some days nothing happened and everything was full."
+  },
+  {
+    "id": 20,
+    "date": "1845-07-23",
+    "season": "summer",
+    "chapter_ref": "Visitors",
+    "summary": "A group of railway workers passes near the cabin during their lunch break. They peer at Thoreau's dwelling with curiosity. He invites them to look inside. They find it bare and strange. He finds their surprise interesting.",
+    "activities": [
+      "receiving curious visitors",
+      "explaining his way of life",
+      "afternoon writing"
+    ],
+    "food": [
+      "shared bread with the workers",
+      "water from the pond"
+    ],
+    "quotes": [
+      {
+        "text": "I had more visitors while I lived in the woods than at any other period of my life.",
+        "source": "Visitors"
+      }
+    ],
+    "weather": "hot, midday sun",
+    "reflection": "His cabin attracted visitors the way a curiosity does. He was a spectacle he had not entirely planned for."
+  },
+  {
+    "id": 21,
+    "date": "1845-07-24",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "Thoreau rows to the middle of the pond and anchors with a stone. He spends two hours simply floating, reading the clouds. The pond holds the sky's reflection so perfectly that he feels suspended between two heavens.",
+    "activities": [
+      "rowing",
+      "floating at anchor",
+      "cloud watching",
+      "reading in the boat"
+    ],
+    "food": [
+      "fish",
+      "bread brought in a cloth"
+    ],
+    "quotes": [
+      {
+        "text": "Time is but the stream I go a-fishing in.",
+        "source": "Where I Lived, and What I Lived For"
+      }
+    ],
+    "weather": "calm, high clouds, warm",
+    "reflection": "The boat on still water was his favourite study."
+  },
+  {
+    "id": 22,
+    "date": "1845-07-25",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "He calculates how many weeks of labour it would take an average man to build a house, versus the rent that man pays annually. The numbers disturb him. He writes that most men are needlessly poor because they have been told they need more than they do.",
+    "activities": [
+      "writing and calculating",
+      "reading",
+      "light work on the cabin"
+    ],
+    "food": [
+      "rye porridge",
+      "salt",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "Most men appear never to have considered what a house is, and are actually though needlessly poor all their lives.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "overcast, mild",
+    "reflection": "His economics were radical but his arithmetic was impeccable."
+  },
+  {
+    "id": 23,
+    "date": "1845-07-26",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "The Fitchburg Railroad's early morning train shakes the cabin walls. Thoreau has made peace with the train — he even admires its punctuality, calling it more reliable than the sun. But he still prefers the sound of the loon.",
+    "activities": [
+      "morning observation of the train",
+      "writing",
+      "afternoon fishing"
+    ],
+    "food": [
+      "fish caught before noon",
+      "bread"
+    ],
+    "quotes": [
+      {
+        "text": "The startings and arrivals of the cars are now the epochs in the village day.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "clear morning, clouds by afternoon",
+    "reflection": "He was never simply anti-technology. He was against letting it run your inner life."
+  },
+  {
+    "id": 24,
+    "date": "1845-07-27",
+    "season": "summer",
+    "chapter_ref": "Higher Laws",
+    "summary": "Thoreau tries going a full day without eating meat. He succeeds and feels lighter for it. He writes about purity — not as a moral rule but as an experiment in sensation. He wants to know what his body actually needs.",
+    "activities": [
+      "vegetarian eating experiment",
+      "writing on higher laws",
+      "long walk at midday"
+    ],
+    "food": [
+      "bread",
+      "boiled rice",
+      "wild berries",
+      "water only"
+    ],
+    "quotes": [
+      {
+        "text": "Is it not a reproach that man is a carnivorous animal? True, he can and does live, in a great measure, by preying on other animals.",
+        "source": "Higher Laws"
+      }
+    ],
+    "weather": "warm and bright",
+    "reflection": "He was not a strict vegetarian but he was curious about what lay beyond appetite."
+  },
+  {
+    "id": 25,
+    "date": "1845-07-28",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "He discovers a second, smaller pond not far from Walden — Flint's Pond. He walks there and finds it larger in area but shallower, its shores more cultivated. He prefers Walden. Walden feels wilder, more itself.",
+    "activities": [
+      "long exploratory walk",
+      "visiting Flint's Pond",
+      "comparison and reflection"
+    ],
+    "food": [
+      "bread packed from the cabin",
+      "pond water"
+    ],
+    "quotes": [
+      {
+        "text": "Flint's Pond! Such is the poverty of our nomenclature. What right had the unclean and stupid farmer to give his name to it?",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "warm, light wind",
+    "reflection": "He was possessive of Walden in the way you are of something you did not own but felt deeply."
+  },
+  {
+    "id": 26,
+    "date": "1845-07-29",
+    "season": "summer",
+    "chapter_ref": "Brute Neighbors",
+    "summary": "A family of partridges has nested near the cabin. The mother feigns injury to lure Thoreau away from her chicks — dragging a wing across the ground, circling back. He watches her performance for twenty minutes and does not disturb them.",
+    "activities": [
+      "watching partridge family",
+      "observing animal behaviour",
+      "writing detailed notes"
+    ],
+    "food": [
+      "cornmeal",
+      "berries",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The partridge loves the wood and the clearing equally, and is not more native to the one than the other.",
+        "source": "Brute Neighbors"
+      }
+    ],
+    "weather": "humid, still",
+    "reflection": "He saw intelligence and love in the partridge's performance. He was not being sentimental."
+  },
+  {
+    "id": 27,
+    "date": "1845-07-30",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "Thoreau re-reads his expense accounts from the first month. He has spent less than he expected. He lists what he considers the four necessities of life — food, shelter, clothing, fuel — and calculates the minimum cost of each. The results surprise even him.",
+    "activities": [
+      "accounting",
+      "reading old journals",
+      "planning next month's expenses"
+    ],
+    "food": [
+      "rice and salt",
+      "bread",
+      "tea made from sumac leaves"
+    ],
+    "quotes": [
+      {
+        "text": "By the words, necessary of life, I mean whatever, of all that man obtains by his own exertions, has been from the first, or from long use has become, so important to human life.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "cooler, a breeze from the north",
+    "reflection": "His monthly living costs: approximately a dollar. He found this not deprivation but liberation."
+  },
+  {
+    "id": 28,
+    "date": "1845-07-31",
+    "season": "summer",
+    "chapter_ref": "Where I Lived, and What I Lived For",
+    "summary": "One month at the pond. He marks the occasion not with celebration but with a long walk around the perimeter at dawn, stopping to place his hand flat on the water. The pond is warm near the surface, cold six inches down.",
+    "activities": [
+      "dawn walk around the pond",
+      "swimming",
+      "journal writing to mark one month"
+    ],
+    "food": [
+      "special meal: fish, bread, and blackberries"
+    ],
+    "quotes": [
+      {
+        "text": "Let us spend one day as deliberately as Nature, and not be thrown off the track by every nutshell and mosquito's wing that falls on the rails.",
+        "source": "Where I Lived, and What I Lived For"
+      }
+    ],
+    "weather": "clear dawn, perfect summer morning",
+    "reflection": "One month done. Twenty-five more to go. He was just beginning."
+  },
+  {
+    "id": 29,
+    "date": "1845-08-01",
+    "season": "summer",
+    "chapter_ref": "Reading",
+    "summary": "August begins. Thoreau pulls out his copy of the Iliad and reads it in Greek for the first time in months. He argues that reading great books in translation is like seeing a painting through glass — you see the image but not the surface.",
+    "activities": [
+      "reading Homer in Greek",
+      "translating passages",
+      "writing about the value of classical reading"
+    ],
+    "food": [
+      "bread",
+      "boiled rice",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "To read well, that is, to read true books in a true spirit, is a noble exercise.",
+        "source": "Reading"
+      }
+    ],
+    "weather": "warm, overcast",
+    "reflection": "He taught himself Greek at Harvard and never stopped using it. The pond was also a study."
+  },
+  {
+    "id": 30,
+    "date": "1845-08-02",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "Thoreau spends the afternoon listening to the sounds of Walden without moving from one spot. He counts the species he can identify by ear alone: wood thrush, veery, tanager, bobolink, whippoorwill. Each has a different hour.",
+    "activities": [
+      "sound observation",
+      "bird identification by ear",
+      "sitting motionless for two hours"
+    ],
+    "food": [
+      "cold bread",
+      "blackberries",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The note of the whippoorwill is the best heard from the shore, when the voice of the bird is the only sound in the night.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "clear, humid, full summer",
+    "reflection": "He could identify forty species of bird by their song. He had spent years learning them."
+  },
+  {
+    "id": 31,
+    "date": "1845-08-03",
+    "season": "summer",
+    "chapter_ref": "The Bean-Field",
+    "summary": "A woodchuck raids the bean field before dawn. By the time Thoreau wakes and goes out, significant damage is done. He does not kill the woodchuck. He considers it philosophically — the woodchuck was here first.",
+    "activities": [
+      "assessing damage to bean field",
+      "tracking the woodchuck",
+      "repairing the field edges"
+    ],
+    "food": [
+      "cornmeal porridge",
+      "the undamaged beans for dinner"
+    ],
+    "quotes": [
+      {
+        "text": "I was obliged to hire a boy to help me set out some of my beans, as I did not feel equal to the whole of it.",
+        "source": "The Bean-Field"
+      }
+    ],
+    "weather": "cool morning, warming fast",
+    "reflection": "He let the woodchuck live and replanted what was eaten. He called this farming."
+  },
+  {
+    "id": 32,
+    "date": "1845-08-04",
+    "season": "summer",
+    "chapter_ref": "Visitors",
+    "summary": "Ralph Waldo Emerson visits. They walk the pond together and talk for the afternoon. Thoreau does not record what was said — some conversations are not for journals. They part at dusk.",
+    "activities": [
+      "walking with Emerson",
+      "long conversation",
+      "showing Emerson the cabin"
+    ],
+    "food": [
+      "tea",
+      "bread prepared for the visit"
+    ],
+    "quotes": [
+      {
+        "text": "I think that I love society as much as most, and am ready enough to fasten myself like a bloodsucker for the time to any full-blooded man.",
+        "source": "Visitors"
+      }
+    ],
+    "weather": "pleasant afternoon",
+    "reflection": "Emerson had given him the land to live on. The relationship was complex. The conversation was good."
+  },
+  {
+    "id": 33,
+    "date": "1845-08-05",
+    "season": "summer",
+    "chapter_ref": "Solitude",
+    "summary": "After Emerson's visit, Thoreau feels the particular silence that follows good company. He does not find it lonely. He finds it clarifying — like how a room feels larger after someone has left it.",
+    "activities": [
+      "solitary walking",
+      "writing",
+      "observing the pond at dusk"
+    ],
+    "food": [
+      "bread",
+      "salt pork",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "Society is commonly too cheap. We meet at very short intervals, not having had time to acquire any new value for each other.",
+        "source": "Solitude"
+      }
+    ],
+    "weather": "cooling, first hint of late summer",
+    "reflection": "He valued Emerson enormously and also needed him to leave."
+  },
+  {
+    "id": 34,
+    "date": "1845-08-06",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "He repairs the cabin chimney which has begun to crack from the summer heat. The work takes most of the day — mixing clay, pressing it into gaps. He reflects that a man who can build and repair his own shelter is freer than one who cannot.",
+    "activities": [
+      "chimney repair",
+      "mixing clay",
+      "masonry work"
+    ],
+    "food": [
+      "simple bread",
+      "boiled rice",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "In the savage state every family owns a shelter as good as the best, and sufficient for its coarser and simpler wants.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "hot, direct sun made the work hard",
+    "reflection": "He was more practically skilled than people assumed. The cabin was his own work entirely."
+  },
+  {
+    "id": 35,
+    "date": "1845-08-07",
+    "season": "summer",
+    "chapter_ref": "Brute Neighbors",
+    "summary": "He watches a battle between two ant colonies at the woodpile — red ants against black ants. He describes the combat with military precision, as though reporting a human war. He does not intervene. The red ants win.",
+    "activities": [
+      "observing ant battle",
+      "detailed note-taking",
+      "reading in the afternoon"
+    ],
+    "food": [
+      "bread",
+      "berries",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "I was myself excited somewhat even as if they had been men. The more you think of it, the less the difference.",
+        "source": "Brute Neighbors"
+      }
+    ],
+    "weather": "warm and still",
+    "reflection": "He watched the ants for over an hour with the attention most people gave to newspaper reports of actual wars."
+  },
+  {
+    "id": 36,
+    "date": "1845-08-08",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "A day of heavy rain. Thoreau stays inside and reads. The sound of rain on the roof is satisfying. He watches the pond surface break into thousands of rings and notes how the rain makes the world look more itself — scrubbed clean and silver-grey.",
+    "activities": [
+      "reading indoors",
+      "writing",
+      "watching the rain on the pond"
+    ],
+    "food": [
+      "hot cornmeal porridge",
+      "molasses",
+      "hot water"
+    ],
+    "quotes": [
+      {
+        "text": "The scenery of Walden is on a humble scale, and, though very beautiful, does not approach to grandeur.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "heavy rain all day, cool",
+    "reflection": "Rain days were reading days. He never found them long."
+  },
+  {
+    "id": 37,
+    "date": "1845-08-09",
+    "season": "summer",
+    "chapter_ref": "Higher Laws",
+    "summary": "Thoreau fishes in the morning and catches several perch. Cleaning them at the water's edge, he feels the same ambivalence he always feels — pleasure in the skill, discomfort at the killing. He eats the fish anyway and writes about the contradiction.",
+    "activities": [
+      "fishing",
+      "cleaning and cooking fish",
+      "writing about ethics of killing"
+    ],
+    "food": [
+      "pan-fried perch",
+      "bread",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "We are conscious of an animal in us, which awakens in proportion as our higher nature slumbers.",
+        "source": "Higher Laws"
+      }
+    ],
+    "weather": "clearing after yesterday's rain, bright",
+    "reflection": "He never fully resolved the contradiction between loving nature and eating from it. He thought honesty about it was enough."
+  },
+  {
+    "id": 38,
+    "date": "1845-08-10",
+    "season": "summer",
+    "chapter_ref": "Reading",
+    "summary": "He reads Aeschylus. He argues to himself that the great works of antiquity are more alive than most conversations happening right now in Concord. Dead men speaking in dead languages — he finds them more present than the living.",
+    "activities": [
+      "reading Aeschylus in Greek",
+      "translating",
+      "writing about classical literature"
+    ],
+    "food": [
+      "bread",
+      "rice",
+      "cold water"
+    ],
+    "quotes": [
+      {
+        "text": "The works of the great poets have never yet been read by mankind, for only great poets can read them.",
+        "source": "Reading"
+      }
+    ],
+    "weather": "warm and fine",
+    "reflection": "He read difficult books because he thought difficulty was where the real nourishment was."
+  },
+  {
+    "id": 39,
+    "date": "1845-08-11",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "The church bell in Concord carries across the woods on the wind. Thoreau hears it faintly at the cabin. He does not go. He has made his own Sabbath of every morning at the pond.",
+    "activities": [
+      "hearing distant church bell",
+      "morning walk",
+      "reading and writing"
+    ],
+    "food": [
+      "bread baked fresh",
+      "molasses",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "I kept neither dog, cat, cow, pig, nor hens, so that you would have said there was a deficiency of domestic sounds.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "Sunday stillness, light breeze",
+    "reflection": "He had left organised religion behind but kept his sense of the sacred. He just moved it outdoors."
+  },
+  {
+    "id": 40,
+    "date": "1845-08-12",
+    "season": "summer",
+    "chapter_ref": "The Bean-Field",
+    "summary": "The beans are tall now and beginning to set pods. Thoreau walks the rows at dawn feeling something he decides is pride but immediately corrects himself — it is gratitude. He did not make the beans. He only made conditions for them.",
+    "activities": [
+      "inspecting bean crop",
+      "weeding",
+      "planning harvest"
+    ],
+    "food": [
+      "first green beans of the season, boiled",
+      "bread",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "What shall I learn of beans or beans of me? I cherish them, I hoe them, early and late I have an eye to them.",
+        "source": "The Bean-Field"
+      }
+    ],
+    "weather": "dewy morning, clearing to bright afternoon",
+    "reflection": "He ate his first beans from the field and found them perfect."
+  },
+  {
+    "id": 41,
+    "date": "1845-08-13",
+    "season": "summer",
+    "chapter_ref": "Visitors",
+    "summary": "A philosopher — likely Bronson Alcott — visits and they talk through the afternoon and into the evening by firelight. The conversation ranges from diet to the soul. Neither convinces the other of anything. Both leave satisfied.",
+    "activities": [
+      "long philosophical conversation",
+      "evening fire",
+      "walking the pond at dusk together"
+    ],
+    "food": [
+      "bread shared with the visitor",
+      "tea",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "There was one other with whom I had 'solid seasons,' long to be remembered, at his house in the village.",
+        "source": "Visitors"
+      }
+    ],
+    "weather": "warm evening, first stars visible early",
+    "reflection": "He valued disagreement with intelligent people above agreement with agreeable ones."
+  },
+  {
+    "id": 42,
+    "date": "1845-08-14",
+    "season": "summer",
+    "chapter_ref": "Where I Lived, and What I Lived For",
+    "summary": "Thoreau decides to write down his purpose — why he came, what he hopes to find. He fills several pages. The sentence he keeps returning to is: simplify, simplify. He writes it three times in succession and stares at it.",
+    "activities": [
+      "extended journal writing",
+      "re-reading old entries",
+      "contemplation"
+    ],
+    "food": [
+      "bread",
+      "boiled beans",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "Simplicity, simplicity, simplicity! I say, let your affairs be as two or three, and not a hundred or a thousand.",
+        "source": "Where I Lived, and What I Lived For"
+      }
+    ],
+    "weather": "still, overcast, contemplative weather",
+    "reflection": "He believed complexity was a choice, and almost always the wrong one."
+  },
+  {
+    "id": 43,
+    "date": "1845-08-15",
+    "season": "summer",
+    "chapter_ref": "Solitude",
+    "summary": "A woman selling baskets comes to the cabin door. She is surprised to find the dwelling occupied and doubly surprised that he does not buy. He reflects later on how little he needs that others spend their lives producing.",
+    "activities": [
+      "brief visitor",
+      "writing after she left",
+      "afternoon in the field"
+    ],
+    "food": [
+      "cornmeal",
+      "salt pork",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "For my part, I was never unusually squeamish; I could sometimes eat a fried rat with a good relish, if it were necessary.",
+        "source": "Higher Laws"
+      }
+    ],
+    "weather": "warm, clouds building",
+    "reflection": "He felt for the basket seller — caught in the same economy he had stepped outside of."
+  },
+  {
+    "id": 44,
+    "date": "1845-08-16",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "He swims before breakfast for the first time — plunging into the cold morning water and staying for half an hour. He comes back to the cabin feeling cleaner in some way that is not about dirt. He decides to make this a daily practice.",
+    "activities": [
+      "early morning swim",
+      "breakfast after swimming",
+      "writing and reading"
+    ],
+    "food": [
+      "bread with honey",
+      "cold water",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "I got up early and bathed in the pond; that was a religious exercise, and one of the best things which I did.",
+        "source": "Where I Lived, and What I Lived For"
+      }
+    ],
+    "weather": "cool morning, very clear",
+    "reflection": "The morning bath became as fixed as dawn itself. He never skipped it."
+  },
+  {
+    "id": 45,
+    "date": "1845-08-17",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "He thinks about clothing — how much a man spends on it, how little of it is necessary. He has worn the same coat for three years and sees no reason to change. Fashion, he concludes, is a tax the vain pay to each other.",
+    "activities": [
+      "mending clothes",
+      "writing on economy of dress",
+      "afternoon in the field"
+    ],
+    "food": [
+      "bread",
+      "boiled potatoes",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "No man ever stood the lower in my estimation for having a patch in his clothes; yet I am sure that there is greater anxiety, commonly, to have fashionable, or at least clean and unpatched clothes.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "warm and overcast",
+    "reflection": "He owned two shirts, two pairs of trousers, and considered himself adequately dressed."
+  },
+  {
+    "id": 46,
+    "date": "1845-08-18",
+    "season": "summer",
+    "chapter_ref": "Brute Neighbors",
+    "summary": "The loon arrives on the pond — early this year. Thoreau chases it in the rowboat for an hour, trying to predict where it will surface. It outsmarts him every time. He is delighted to be beaten.",
+    "activities": [
+      "chasing the loon by rowboat",
+      "observing loon behaviour",
+      "laughing at himself"
+    ],
+    "food": [
+      "fish",
+      "bread",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "As I was paddling along the north shore one very calm October afternoon, I heard the loon, and in haste to get a nearer view I began to paddle.",
+        "source": "Brute Neighbors"
+      }
+    ],
+    "weather": "clear, light wind from the west",
+    "reflection": "The loon's laugh is one of the wildest sounds in the northeast. He heard it as a kind of commentary."
+  },
+  {
+    "id": 47,
+    "date": "1845-08-19",
+    "season": "summer",
+    "chapter_ref": "The Bean-Field",
+    "summary": "First real harvest of the season. He pulls beans all morning, filling two large sacks. His hands are strong now in ways they weren't in June. He carries the sacks back to the cabin and spreads the beans to dry on the floor.",
+    "activities": [
+      "bean harvest",
+      "carrying sacks",
+      "spreading beans to dry"
+    ],
+    "food": [
+      "fresh harvested beans boiled",
+      "bread",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I harvested twelve bushels of beans.",
+        "source": "The Bean-Field"
+      }
+    ],
+    "weather": "perfect harvest day — dry, warm, light breeze",
+    "reflection": "Twelve bushels of beans. He had made something real from the earth."
+  },
+  {
+    "id": 48,
+    "date": "1845-08-20",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "He hears a sound he cannot identify — a low, rhythmic drumming from deep in the woods. He investigates for an hour and finds nothing. He decides it must be a ruffed grouse. He writes it down as a question, not an answer.",
+    "activities": [
+      "tracking unknown sound",
+      "walking deep into the woods",
+      "writing field notes"
+    ],
+    "food": [
+      "bread",
+      "berries",
+      "cold water"
+    ],
+    "quotes": [
+      {
+        "text": "Sometimes I heard four or five at once in different parts of the wood, by accident one a leader of a choir.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "warm, deep green August woods",
+    "reflection": "He never pretended to know more than he did. The question mark was as valuable as the answer."
+  },
+  {
+    "id": 49,
+    "date": "1845-08-21",
+    "season": "summer",
+    "chapter_ref": "Higher Laws",
+    "summary": "He decides not to fish today. Not from a moral principle but from a feeling. He sits by the water with his line uncast and watches the surface. A large pickerel circles close to shore. He lets it go.",
+    "activities": [
+      "sitting by the water without fishing",
+      "observing fish",
+      "afternoon writing"
+    ],
+    "food": [
+      "bread",
+      "boiled potatoes",
+      "cold water"
+    ],
+    "quotes": [
+      {
+        "text": "I have found repeatedly, of late years, that I cannot fish without falling a little in self-respect.",
+        "source": "Higher Laws"
+      }
+    ],
+    "weather": "very warm, hazy",
+    "reflection": "Not fishing was its own kind of practice."
+  },
+  {
+    "id": 50,
+    "date": "1845-08-22",
+    "season": "summer",
+    "chapter_ref": "Where I Lived, and What I Lived For",
+    "summary": "Day fifty. He marks it privately, in the journal. He has not counted the days before — that would feel like serving a sentence. But fifty seems worth noting. He walks the full perimeter of the pond and feels the ground is familiar now underfoot.",
+    "activities": [
+      "perimeter walk",
+      "journal writing",
+      "reading in the afternoon"
+    ],
+    "food": [
+      "cornmeal",
+      "molasses",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "I went to the woods because I wished to live deliberately.",
+        "source": "Where I Lived, and What I Lived For"
+      }
+    ],
+    "weather": "late August heat, thick air",
+    "reflection": "Fifty days. The pond was starting to feel like his."
+  },
+  {
+    "id": 51,
+    "date": "1845-08-23",
+    "season": "summer",
+    "chapter_ref": "Visitors",
+    "summary": "Three young men from Concord come to fish and invite themselves to stay for supper. Thoreau cooks a simple meal. They eat together and talk until dark. He enjoys the company more than he expects to.",
+    "activities": [
+      "hosting three visitors",
+      "cooking together",
+      "evening conversation by the fire"
+    ],
+    "food": [
+      "shared fish dinner",
+      "bread",
+      "tea made for all"
+    ],
+    "quotes": [
+      {
+        "text": "I had more visitors while I lived in the woods than at any other period in my life.",
+        "source": "Visitors"
+      }
+    ],
+    "weather": "warm evening, frogs beginning their chorus",
+    "reflection": "He was not a hermit. He received visitors generously. He just chose when."
+  },
+  {
+    "id": 52,
+    "date": "1845-08-24",
+    "season": "summer",
+    "chapter_ref": "Solitude",
+    "summary": "After the visitors he needs a day alone to recover himself. He does not go to the field. He sits with a book and does not finish it. He watches a spider rebuild its web in the window corner. By evening he is restored.",
+    "activities": [
+      "reading without finishing",
+      "watching the spider",
+      "sitting quietly"
+    ],
+    "food": [
+      "bread",
+      "water",
+      "cold beans from yesterday"
+    ],
+    "quotes": [
+      {
+        "text": "I have a great deal of company in my house; especially in the morning, when nobody calls.",
+        "source": "Solitude"
+      }
+    ],
+    "weather": "overcast, still",
+    "reflection": "He needed solitude the way some people need sleep — regularly and without apology."
+  },
+  {
+    "id": 53,
+    "date": "1845-08-25",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "He paddles to a spot he has not visited before — the far northeast corner of Walden, where the shore is steep and rocky. He finds the water different here — darker, somehow colder. He sits on the rock for an hour without moving.",
+    "activities": [
+      "paddling to new part of the pond",
+      "rock sitting",
+      "observation"
+    ],
+    "food": [
+      "bread brought in a cloth",
+      "pond water"
+    ],
+    "quotes": [
+      {
+        "text": "The pond was so smooth that I could see every pebble lying on the bottom.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "calm, clear, warm",
+    "reflection": "He knew the pond well but it kept showing him new rooms."
+  },
+  {
+    "id": 54,
+    "date": "1845-08-26",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "He adds up his expenses for the summer so far. His total outgoings since July 4th come to under ten dollars. He compares this to what a Harvard student spends in a week and finds the comparison instructive.",
+    "activities": [
+      "accounting",
+      "comparative writing",
+      "light field work"
+    ],
+    "food": [
+      "rice",
+      "salt",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I learned from my two years' experience that it would cost incredibly little trouble to obtain one's necessary food.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "warm, late summer light already changing",
+    "reflection": "He was not poor. He was free. He considered these opposites."
+  },
+  {
+    "id": 55,
+    "date": "1845-08-27",
+    "season": "summer",
+    "chapter_ref": "Reading",
+    "summary": "He picks up the Bhagavad Gita, which he has been reading alongside the Greeks. He is struck by how it speaks to the same questions — action, duty, the nature of the self — but from a completely different angle. He spends the evening comparing passages.",
+    "activities": [
+      "reading the Bhagavad Gita",
+      "reading Homer",
+      "comparative notes"
+    ],
+    "food": [
+      "bread",
+      "cold beans",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "In the morning I bathe my intellect in the stupendous and cosmogonal philosophy of the Bhagvat Geeta.",
+        "source": "Reading"
+      }
+    ],
+    "weather": "cool evening, first suggestion of autumn in the air",
+    "reflection": "He read Indian and Greek philosophy as one continuous conversation about how to live."
+  },
+  {
+    "id": 56,
+    "date": "1845-08-28",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "The evenings are getting shorter. He notices it first in the pond — the water holding the last light later than the sky. He sits outside past nine without a lamp, then goes in. The summer is turning.",
+    "activities": [
+      "evening observation",
+      "writing by firelight",
+      "watching dusk extend over the pond"
+    ],
+    "food": [
+      "bread",
+      "salt pork",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "As I walk along the stony shore of the pond in my shirt sleeves, though it is cool as well as cloudy and windy.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "cooler, the light different from July",
+    "reflection": "He noticed seasonal change before anyone else seemed to."
+  },
+  {
+    "id": 57,
+    "date": "1845-08-29",
+    "season": "summer",
+    "chapter_ref": "Brute Neighbors",
+    "summary": "He finds a snapping turtle laying eggs at the edge of the woods, far from the water. She has walked two hundred yards from the pond. He watches without disturbing her. She covers the nest and returns to the water as though nothing has happened.",
+    "activities": [
+      "watching turtle nesting",
+      "tracking her path back to the pond",
+      "afternoon writing"
+    ],
+    "food": [
+      "fish",
+      "cornmeal",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The turtle lays her eggs on the dry land, and the young crawl to the water.",
+        "source": "Brute Neighbors"
+      }
+    ],
+    "weather": "warm and still",
+    "reflection": "Ancient behaviour, unchanged. He found continuity in the turtle deeply reassuring."
+  },
+  {
+    "id": 58,
+    "date": "1845-08-30",
+    "season": "summer",
+    "chapter_ref": "The Bean-Field",
+    "summary": "He begins the second and final harvest of the bean field. The yield is good. He carries five sacks to the barn and notes the effort required — two hours of carrying for two months of growing. He does the arithmetic on labour per bean and finds it reasonable.",
+    "activities": [
+      "bean harvest",
+      "carrying to barn",
+      "calculating yield"
+    ],
+    "food": [
+      "fresh beans",
+      "bread",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I was determined to know beans.",
+        "source": "The Bean-Field"
+      }
+    ],
+    "weather": "clear harvest day",
+    "reflection": "The field was done for the year. He would not plant beans again next summer."
+  },
+  {
+    "id": 59,
+    "date": "1845-08-31",
+    "season": "summer",
+    "chapter_ref": "Where I Lived, and What I Lived For",
+    "summary": "Last day of August. He reads what he has written over the summer and is partly satisfied. He tears up two pages he finds dishonest. He keeps everything else. He watches the last fireflies of the season near the water at dusk.",
+    "activities": [
+      "reading and editing journal",
+      "tearing up pages",
+      "watching last fireflies"
+    ],
+    "food": [
+      "bread",
+      "molasses",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "However mean your life is, meet it and live it.",
+        "source": "Conclusion"
+      }
+    ],
+    "weather": "end of summer feel, warm but softer",
+    "reflection": "He edited himself ruthlessly. Everything he kept, he meant."
+  },
+  {
+    "id": 60,
+    "date": "1845-09-01",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "September. A different quality of light today — lower, more golden, less certain. The woods are the same but something has shifted. He notices it in the birds first: the bobolinks have gone quiet. Migration has begun.",
+    "activities": [
+      "morning observation",
+      "noting seasonal changes",
+      "writing about the shift from summer"
+    ],
+    "food": [
+      "cornmeal",
+      "salt",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "In September or October, Walden is a perfect forest mirror.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "September light, golden and slightly sad",
+    "reflection": "He loved all seasons equally but autumn honestly a little more."
+  },
+  {
+    "id": 61,
+    "date": "1845-09-02",
+    "season": "summer",
+    "chapter_ref": "Solitude",
+    "summary": "He sleeps past dawn for the first time since arriving — waking at seven instead of five. He is not sure why. He lies still for a moment listening. Something is quieter. He gets up and goes to the pond and everything looks exactly as usual.",
+    "activities": [
+      "late rising",
+      "morning at the pond",
+      "writing",
+      "reading"
+    ],
+    "food": [
+      "bread",
+      "cold beans",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I never found the companion that was so companionable as solitude.",
+        "source": "Solitude"
+      }
+    ],
+    "weather": "cool morning, warm afternoon",
+    "reflection": "Even a two-hour variation in his rising felt like news. The routine had become the measure of everything."
+  },
+  {
+    "id": 62,
+    "date": "1845-09-03",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "A neighbour offers to trade a young pig for labour. Thoreau considers it. He declines — a pig would require fencing, feeding, worry. He has not come to the woods to acquire more things to manage. He thanks the neighbour and returns to his book.",
+    "activities": [
+      "considering and declining a trade",
+      "writing about the economics of ownership",
+      "afternoon reading"
+    ],
+    "food": [
+      "bread",
+      "boiled potatoes",
+      "salt"
+    ],
+    "quotes": [
+      {
+        "text": "I see young men, my townsmen, whose misfortune it is to have inherited farms, houses, barns, cattle, and farming tools.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "fine",
+    "reflection": "He wanted fewer things, not more. This required constant decisions."
+  },
+  {
+    "id": 63,
+    "date": "1845-09-04",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "He finds a dead pickerel floating at the pond's edge — beautiful even in death, its colours still vivid. He examines it for half an hour, noting the iridescence of its scales, the geometry of its fins. He places it back in the water.",
+    "activities": [
+      "examining dead fish",
+      "detailed naturalist observation",
+      "writing field notes"
+    ],
+    "food": [
+      "bread",
+      "berries",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The pickerel of Walden — they are not commonly seen.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "clear, the water very still",
+    "reflection": "He examined dead things with the same care he gave the living. Death was not a conclusion."
+  },
+  {
+    "id": 64,
+    "date": "1845-09-05",
+    "season": "summer",
+    "chapter_ref": "Higher Laws",
+    "summary": "He walks to the village to hear a lecture but finds it closed. Instead he sits in the town square and watches people for an hour. Their hurry confuses him. They move as though late for something. He walks back to the pond in no hurry at all.",
+    "activities": [
+      "walking to Concord",
+      "observing town life",
+      "walking back slowly"
+    ],
+    "food": [
+      "purchased rye bread in town",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The mass of men lead lives of quiet desperation.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "blustery, early autumn feeling",
+    "reflection": "He watched his townspeople with sympathy and genuine puzzlement."
+  },
+  {
+    "id": 65,
+    "date": "1845-09-06",
+    "season": "summer",
+    "chapter_ref": "Reading",
+    "summary": "Two months since he arrived. He pulls his books out and makes an inventory: twelve volumes. He decides twelve is exactly right — enough to be educated, not so many as to be overwhelmed. He reads slowly, one book at a time, thoroughly.",
+    "activities": [
+      "inventorying books",
+      "reading Confucius",
+      "writing about reading"
+    ],
+    "food": [
+      "bread",
+      "rice",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "Books are the treasured wealth of the world and the fit inheritance of generations and nations.",
+        "source": "Reading"
+      }
+    ],
+    "weather": "cool and clear, autumn approaching",
+    "reflection": "He read fewer books than most educated men of his time and understood them more completely."
+  },
+  {
+    "id": 66,
+    "date": "1845-09-07",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "He hears the first geese of the season crossing overhead before dawn — their honking faint and high, invisible in the dark. He stands outside straining upward, seeing nothing, hearing everything. The sound moves north to south and fades.",
+    "activities": [
+      "listening for geese before dawn",
+      "standing outside in the dark",
+      "writing about migration"
+    ],
+    "food": [
+      "bread",
+      "cold water"
+    ],
+    "quotes": [
+      {
+        "text": "I hear the sound of the geese passing over, and am saddened.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "cold before dawn, clearing to warm",
+    "reflection": "The geese meant the summer was truly ending. He was always a little sad to hear them."
+  },
+  {
+    "id": 67,
+    "date": "1845-09-08",
+    "season": "summer",
+    "chapter_ref": "Brute Neighbors",
+    "summary": "A red squirrel has begun stealing from the cabin — taking dried beans from the bag by the door. He watches it carry them off one by one with great efficiency. He does not stop it. He reduces the supply available and calls this coexistence.",
+    "activities": [
+      "watching the squirrel",
+      "reducing accessible food stores",
+      "writing"
+    ],
+    "food": [
+      "bread",
+      "remaining beans",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The squirrel took a bean and sat on the top of the woodpile and ate it, looking down at me.",
+        "source": "Brute Neighbors"
+      }
+    ],
+    "weather": "warm, last of summer",
+    "reflection": "He shared his cabin with many creatures. Most were more discreet than the squirrel."
+  },
+  {
+    "id": 68,
+    "date": "1845-09-09",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "He measures the temperature of the pond at different depths, lowering a thermometer on a string. The surface is warm. Three feet down, it drops ten degrees. Ten feet down, it is cold as winter. The pond carries all its seasons inside it at once.",
+    "activities": [
+      "temperature measurements",
+      "scientific observation",
+      "recording data"
+    ],
+    "food": [
+      "fish",
+      "bread",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The pond has its shore, and its bottom, both of which I know well.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "warm surface, the air cooling",
+    "reflection": "He thought scientifically and poetically at the same time. He saw no contradiction in this."
+  },
+  {
+    "id": 69,
+    "date": "1845-09-10",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "He reads a newspaper for the first time in weeks. It does not take long. He notes that the same events recur in different forms — fires, elections, foreign dispatches, crimes. He puts it down and reads a page of Confucius instead.",
+    "activities": [
+      "reading the newspaper",
+      "writing about news",
+      "reading Confucius in contrast"
+    ],
+    "food": [
+      "bread",
+      "cold rice",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "Hardly a man takes a half hour's nap after dinner, but when he wakes he holds up his head and asks, 'What's the news?'",
+        "source": "Economy"
+      }
+    ],
+    "weather": "cloudy, cool",
+    "reflection": "He distrusted news not because he was uninformed but because he had thought about what information was for."
+  },
+  {
+    "id": 70,
+    "date": "1845-09-11",
+    "season": "summer",
+    "chapter_ref": "Where I Lived, and What I Lived For",
+    "summary": "He tries to articulate what he has learned in two and a half months. He cannot do it in one sentence. He fills four pages and crosses out most of it. What remains: live. Pay attention. Do not sleepwalk.",
+    "activities": [
+      "extended journal writing",
+      "crossing out",
+      "revising"
+    ],
+    "food": [
+      "bread",
+      "boiled rice",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I did not wish to live what was not life, living is so dear.",
+        "source": "Where I Lived, and What I Lived For"
+      }
+    ],
+    "weather": "still, grey, good writing weather",
+    "reflection": "The writing was never as good as what he meant. He kept trying anyway."
+  },
+  {
+    "id": 71,
+    "date": "1845-09-12",
+    "season": "summer",
+    "chapter_ref": "Visitors",
+    "summary": "He is visited by a runaway slave heading north. Thoreau gives him food, directions, and a place to sleep for one night. He does not record the man's name to protect him. He records only that he came and left safely.",
+    "activities": [
+      "sheltering a traveller",
+      "providing food and direction",
+      "one night of company"
+    ],
+    "food": [
+      "shared all he had — bread, beans, water"
+    ],
+    "quotes": [
+      {
+        "text": "I would not subtract anything from the praise of my native village.",
+        "source": "Visitors"
+      }
+    ],
+    "weather": "dark and moonless, useful for travel",
+    "reflection": "He had strong views about slavery and acted on them quietly and without hesitation."
+  },
+  {
+    "id": 72,
+    "date": "1845-09-13",
+    "season": "summer",
+    "chapter_ref": "Solitude",
+    "summary": "After the traveller leaves before dawn, Thoreau sits by the door and watches the light come back. He feels the weight of what the man carried — not luggage but circumstance. He writes about freedom in a different register than usual.",
+    "activities": [
+      "watching dawn alone",
+      "writing about freedom and slavery",
+      "long walk"
+    ],
+    "food": [
+      "bread",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "None is so poor that he need sit on a pumpkin.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "cold clear dawn, beautiful and indifferent",
+    "reflection": "His solitude felt different that morning — less philosophical, more grateful."
+  },
+  {
+    "id": 73,
+    "date": "1845-09-14",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "First red leaves on the swamp maples at the far end of the pond. Just a few — a signal rather than a change. Thoreau notes them with the precision of a man who takes seasonal change personally.",
+    "activities": [
+      "walking the far shore",
+      "noting first autumn colour",
+      "writing"
+    ],
+    "food": [
+      "bread",
+      "cold beans",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The scenery of Walden is on a humble scale.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "cool morning, warm midday — transitional",
+    "reflection": "The first red leaf arrived the same week every year. He had been watching for it."
+  },
+  {
+    "id": 74,
+    "date": "1845-09-15",
+    "season": "summer",
+    "chapter_ref": "Higher Laws",
+    "summary": "He writes at length about appetite — not just for food but for sensation, for novelty, for distraction. He believes most suffering is caused by appetite poorly understood. He proposes nothing so simple as abstinence. He proposes awareness.",
+    "activities": [
+      "long writing session",
+      "thinking about appetite and desire",
+      "evening walk"
+    ],
+    "food": [
+      "very simple: bread and water only, deliberately"
+    ],
+    "quotes": [
+      {
+        "text": "Water is the only drink for a wise man.",
+        "source": "Higher Laws"
+      }
+    ],
+    "weather": "cool and bright",
+    "reflection": "He simplified his eating that day not as a rule but as a question — what is actually needed?"
+  },
+  {
+    "id": 75,
+    "date": "1845-09-16",
+    "season": "summer",
+    "chapter_ref": "Sounds",
+    "summary": "He listens to the wind in the pines all afternoon. The sound is different in every tree depending on the tree's shape, age, and height. He calls it the oldest music — older than any instrument, older than any ear evolved to hear it.",
+    "activities": [
+      "listening to wind in trees",
+      "differentiating sounds by tree type",
+      "writing"
+    ],
+    "food": [
+      "bread",
+      "berries",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The wind in the pines is a kind of muted music.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "windy, strong gusts, the pines loud",
+    "reflection": "He could spend an afternoon listening to a single sound and not feel the time pass."
+  },
+  {
+    "id": 76,
+    "date": "1845-09-17",
+    "season": "summer",
+    "chapter_ref": "Economy",
+    "summary": "He thinks about what he will do when he leaves the pond — not yet, not for a long time, but eventually. He does not plan it. He notices that he is thinking about it and writes the thought down as a fact, not a desire.",
+    "activities": [
+      "reflective writing",
+      "planning nothing",
+      "long swim in the cooling pond"
+    ],
+    "food": [
+      "cornmeal",
+      "salt",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I left the woods for as good a reason as I went there.",
+        "source": "Conclusion"
+      }
+    ],
+    "weather": "September afternoon, the pond cooler now",
+    "reflection": "He would leave when he had finished. He was not finished yet."
+  },
+  {
+    "id": 77,
+    "date": "1845-09-18",
+    "season": "summer",
+    "chapter_ref": "Brute Neighbors",
+    "summary": "He finds a mouse that has nested in a boot he left by the door. She has four young, blind and pink, in a cup of shredded linen. He does not disturb the boot. He wears the other one and waits.",
+    "activities": [
+      "discovering the mouse nest",
+      "leaving it undisturbed",
+      "working one-booted in the field"
+    ],
+    "food": [
+      "bread",
+      "boiled potatoes",
+      "salt"
+    ],
+    "quotes": [
+      {
+        "text": "I had a sparrow alight upon my shoulder for a moment while I was hoeing in a village garden.",
+        "source": "Brute Neighbors"
+      }
+    ],
+    "weather": "mild, slightly overcast",
+    "reflection": "He wore one boot for a week rather than disturb the nest. He found this perfectly reasonable."
+  },
+  {
+    "id": 78,
+    "date": "1845-09-19",
+    "season": "summer",
+    "chapter_ref": "Reading",
+    "summary": "He begins writing what will eventually become Walden — not the book as published but early drafts, the first attempt to make sense of what he is living. He writes badly and knows it. He keeps going.",
+    "activities": [
+      "beginning draft writing",
+      "writing badly and continuing",
+      "reading his own words aloud"
+    ],
+    "food": [
+      "bread",
+      "cold water",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "I do not propose to write an ode to dejection, but to brag as lustily as chanticleer in the morning.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "grey, good writing weather",
+    "reflection": "The book that would make him famous began as clumsy sentences in a cabin. Most great things do."
+  },
+  {
+    "id": 79,
+    "date": "1845-09-20",
+    "season": "summer",
+    "chapter_ref": "The Ponds",
+    "summary": "He swims for what he suspects will be one of the last warm swims of the year. The water is noticeably cooler. He stays in for only ten minutes and comes out shivering slightly. The season is undeniable now.",
+    "activities": [
+      "possibly last warm swim",
+      "noting the water temperature",
+      "writing about seasonal change"
+    ],
+    "food": [
+      "hot cornmeal to warm up",
+      "tea",
+      "bread"
+    ],
+    "quotes": [
+      {
+        "text": "The water of our river is none the worse for the scum that floats on it.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "cool, the summer officially ending",
+    "reflection": "He never mourned a season. Each had its gift."
+  },
+  {
+    "id": 80,
+    "date": "1845-09-21",
+    "season": "autumn",
+    "chapter_ref": "Sounds",
+    "summary": "Autumn arrives. He marks it not by the calendar but by the light — that low September gold that hits the water at a different angle than summer light. He sits on the shore and watches it move across the pond for an hour.",
+    "activities": [
+      "watching autumn light",
+      "sitting on the shore",
+      "afternoon writing"
+    ],
+    "food": [
+      "bread",
+      "cold water",
+      "the last blackberries"
+    ],
+    "quotes": [
+      {
+        "text": "In October I went a-graping to the river meadows.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "first true autumn day — golden light, cool air",
+    "reflection": "The season changed and he changed with it, almost unconsciously."
+  },
+  {
+    "id": 81,
+    "date": "1845-09-22",
+    "season": "autumn",
+    "chapter_ref": "The Ponds",
+    "summary": "The pond is a mirror today — the water so still that the tree reflections are more vivid than the trees themselves. He rows out to the centre and looks down at the sky reflected below him. He feels suspended between two worlds.",
+    "activities": [
+      "rowing on the mirror-pond",
+      "looking at sky reflection",
+      "writing poetry fragments"
+    ],
+    "food": [
+      "bread",
+      "water",
+      "dried beans"
+    ],
+    "quotes": [
+      {
+        "text": "In October, I went a-graping to the river meadows and loaded myself with clusters more precious for their beauty and fragrance than for food.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "perfectly still, cloudless, cold at the edges of the day",
+    "reflection": "A pond on a calm autumn day is the most perfect reflective surface in nature."
+  },
+  {
+    "id": 82,
+    "date": "1845-09-23",
+    "season": "autumn",
+    "chapter_ref": "Former Inhabitants",
+    "summary": "He researches who lived in these woods before him — interviewing old-timers in Concord, reading records. There was a freed slave named Cato Ingraham who had a house nearby. And a woman named Zilpha, and a man named Brister. He feels he is not the first to simplify.",
+    "activities": [
+      "researching former inhabitants",
+      "talking to elderly Concord residents",
+      "writing history"
+    ],
+    "food": [
+      "bread",
+      "salt pork",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I am not aware that any man has ever built on the spot which I occupy.",
+        "source": "Former Inhabitants"
+      }
+    ],
+    "weather": "cool and grey",
+    "reflection": "The woods had housed the marginalised long before Thoreau's voluntary simplicity. He was honest about the difference."
+  },
+  {
+    "id": 83,
+    "date": "1845-09-24",
+    "season": "autumn",
+    "chapter_ref": "Brute Neighbors",
+    "summary": "He finds the mouse nest empty — the young have grown and left. The boot is reclaimed. He is unreasonably pleased by this, as though a small drama has ended well.",
+    "activities": [
+      "discovering empty nest",
+      "cleaning the boot",
+      "afternoon walk"
+    ],
+    "food": [
+      "bread",
+      "cold beans",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I had a hen pheasant once meet me in the woods, where she had a brood of young ones.",
+        "source": "Brute Neighbors"
+      }
+    ],
+    "weather": "breezy, leaves beginning to turn properly",
+    "reflection": "He noted the departure of the mice as carefully as any other event. Scale was not the measure of significance."
+  },
+  {
+    "id": 84,
+    "date": "1845-09-25",
+    "season": "autumn",
+    "chapter_ref": "Economy",
+    "summary": "He lights a fire in the cabin for the first time since spring. The chimney draws well — his clay repair held. The smell of wood smoke fills the room and he sits very close to the fire and reads for the whole evening.",
+    "activities": [
+      "first fire of autumn",
+      "testing the chimney",
+      "evening reading by firelight"
+    ],
+    "food": [
+      "hot soup from dried beans",
+      "bread",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I had six weeks of companionship with fire, which warmed me externally and internally.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "cold enough for fire — a real autumn evening",
+    "reflection": "The first fire of autumn is one of the great domestic pleasures. He had been waiting for it."
+  },
+  {
+    "id": 85,
+    "date": "1845-09-26",
+    "season": "autumn",
+    "chapter_ref": "The Ponds",
+    "summary": "Walking the east shore, he finds a spring he has not noticed before — ice cold water seeping from a crack in the rock. He tastes it. It is better than the pond water, which is already good. He marks the spot.",
+    "activities": [
+      "discovering a spring",
+      "tasting and testing the water",
+      "marking the location"
+    ],
+    "food": [
+      "spring water tasted",
+      "bread",
+      "dried fish"
+    ],
+    "quotes": [
+      {
+        "text": "A lake is the landscape's most beautiful and expressive feature.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "cool and bright, the leaves half-turned",
+    "reflection": "The pond kept giving him new things to find. He wondered if it ever stopped."
+  },
+  {
+    "id": 86,
+    "date": "1845-09-27",
+    "season": "autumn",
+    "chapter_ref": "Visitors",
+    "summary": "A scholar from Harvard visits, curious about Thoreau's experiment. He takes detailed notes. Thoreau answers his questions honestly but wonders what the scholar will do with the information — whether observation without participation means anything.",
+    "activities": [
+      "hosting a scholar",
+      "answering questions about his life",
+      "mixed feelings afterward"
+    ],
+    "food": [
+      "tea made for the visitor",
+      "bread",
+      "shared beans"
+    ],
+    "quotes": [
+      {
+        "text": "I had more visitors while I lived in the woods than at any other period of my life.",
+        "source": "Visitors"
+      }
+    ],
+    "weather": "fine autumn afternoon",
+    "reflection": "He was always more interested in living his experiment than explaining it."
+  },
+  {
+    "id": 87,
+    "date": "1845-09-28",
+    "season": "autumn",
+    "chapter_ref": "Solitude",
+    "summary": "A day that feels like the platonic idea of autumn: orange and gold in the trees, cold air, late-slanted sun, the pond absolutely still. He spends most of it outside, moving slowly, doing nothing that could be called a task.",
+    "activities": [
+      "wandering without purpose",
+      "sitting in sun patches",
+      "watching leaves fall"
+    ],
+    "food": [
+      "bread",
+      "dried apples from town",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I have never felt lonesome, or in the least oppressed by a sense of solitude.",
+        "source": "Solitude"
+      }
+    ],
+    "weather": "perfect autumn day",
+    "reflection": "Some days the world arranged itself perfectly. He had learned to be available for them."
+  },
+  {
+    "id": 88,
+    "date": "1845-09-29",
+    "season": "autumn",
+    "chapter_ref": "The Bean-Field",
+    "summary": "He turns over the bean field for the last time this year, working the spent plants into the soil. The field is done. Next spring it will grow something else or nothing at all — he has not decided. He smooths the surface with the back of the hoe and leaves.",
+    "activities": [
+      "turning over the bean field",
+      "final field work of the season",
+      "putting tools away"
+    ],
+    "food": [
+      "bread",
+      "dried beans cooked slow",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "The soil, it appears, is suited to the seed, for it has sent its radicle downward.",
+        "source": "The Bean-Field"
+      }
+    ],
+    "weather": "cold in the morning, mild afternoon",
+    "reflection": "The field had given him beans and philosophy in roughly equal measure."
+  },
+  {
+    "id": 89,
+    "date": "1845-09-30",
+    "season": "autumn",
+    "chapter_ref": "Former Inhabitants",
+    "summary": "He finds the old cellar hole where Cato Ingraham's house once stood — just a rectangle of fieldstone, half-filled with leaves. He clears it out a little and stands in it. Someone once called this home.",
+    "activities": [
+      "clearing old cellar hole",
+      "reflecting on former inhabitants",
+      "writing history and elegy"
+    ],
+    "food": [
+      "bread",
+      "cold water"
+    ],
+    "quotes": [
+      {
+        "text": "Still grows the vivacious lilac a generation after the door and lintel and the sill are gone.",
+        "source": "Former Inhabitants"
+      }
+    ],
+    "weather": "melancholy autumn day, overcast",
+    "reflection": "He was moved by the vanished lives of the poor. He wrote about them with more tenderness than he showed for the prosperous."
+  },
+  {
+    "id": 90,
+    "date": "1845-10-01",
+    "season": "autumn",
+    "chapter_ref": "The Ponds",
+    "summary": "October. The pond has turned — from summer blue to autumn grey-green, reflecting the changed trees. He rows out and dips his hand in. The water is cold now. He will not swim again until spring.",
+    "activities": [
+      "rowing the autumn pond",
+      "feeling the changed water",
+      "writing about the pond's seasonal moods"
+    ],
+    "food": [
+      "hot cornmeal",
+      "dried fish",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "In October I saw how the reflections of the trees became more perfect.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "October grey, cool, the trees brilliant",
+    "reflection": "The pond in October was his favourite version of it."
+  },
+  {
+    "id": 91,
+    "date": "1845-10-02",
+    "season": "autumn",
+    "chapter_ref": "Higher Laws",
+    "summary": "He begins eating less. Not from scarcity but from preference — in autumn his appetite simplifies. He eats once a day, a large meal at noon, and finds he does not miss the other meals. His body is adjusting to the season.",
+    "activities": [
+      "adjusting eating patterns",
+      "writing about seasonal appetite",
+      "long afternoon walk"
+    ],
+    "food": [
+      "one large meal: dried beans, bread, dried fish"
+    ],
+    "quotes": [
+      {
+        "text": "The fruits do not yield their true flavour to the purchaser of them, nor to him who raises them for the market.",
+        "source": "Higher Laws"
+      }
+    ],
+    "weather": "cool and dry",
+    "reflection": "He ate less in autumn and winter not from deprivation but because less was what he wanted."
+  },
+  {
+    "id": 92,
+    "date": "1845-10-03",
+    "season": "autumn",
+    "chapter_ref": "Sounds",
+    "summary": "He hears the last crickets of the season — fewer each night now, their song slower in the cold. He listens carefully, trying to fix the sound in memory. By November they will be gone entirely.",
+    "activities": [
+      "listening to last crickets",
+      "writing about sound and season",
+      "reading by firelight"
+    ],
+    "food": [
+      "bread",
+      "hot bean soup",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "The crickets too tell of the progress of the season.",
+        "source": "Sounds"
+      }
+    ],
+    "weather": "cold night, the crickets audibly slowing",
+    "reflection": "He counted the crickets the way you count days of an ending thing."
+  },
+  {
+    "id": 93,
+    "date": "1845-10-04",
+    "season": "autumn",
+    "chapter_ref": "Brute Neighbors",
+    "summary": "He finds a dead owl at the base of a pine — perfect, unmarked, no sign of what killed it. He examines it for a long time: the layered feathers, the asymmetric ears, the talons still curved as though mid-hunt. He buries it under the pine.",
+    "activities": [
+      "examining dead owl",
+      "detailed naturalist observation",
+      "burying it"
+    ],
+    "food": [
+      "bread",
+      "dried beans",
+      "water"
+    ],
+    "quotes": [
+      {
+        "text": "I once had a sparrow alight upon my shoulder for a moment.",
+        "source": "Brute Neighbors"
+      }
+    ],
+    "weather": "cold, grey, still",
+    "reflection": "He was not sentimental about death but he was respectful of it."
+  },
+  {
+    "id": 94,
+    "date": "1845-10-05",
+    "season": "autumn",
+    "chapter_ref": "Former Inhabitants",
+    "summary": "Walking in the woods, he finds a lilac bush blooming alone where no house stands. He traces it to a former dwelling and decides that lilacs outlive their planters by generations. He cuts a branch and brings it back to the cabin.",
+    "activities": [
+      "finding the wild lilac",
+      "researching what house was here",
+      "bringing a branch back"
+    ],
+    "food": [
+      "bread",
+      "dried fish",
+      "hot water with dried herbs"
+    ],
+    "quotes": [
+      {
+        "text": "Still grows the vivacious lilac a generation after the door and lintel and the sill are gone.",
+        "source": "Former Inhabitants"
+      }
+    ],
+    "weather": "cold and clear, smell of leaves",
+    "reflection": "The lilac was more faithful to the past than any monument."
+  },
+  {
+    "id": 95,
+    "date": "1845-10-06",
+    "season": "autumn",
+    "chapter_ref": "Economy",
+    "summary": "He begins to lay in wood for winter — splitting logs behind the cabin and stacking them against the wall. The work is satisfying in a particular way: it is preparation, and he can see the result accumulating.",
+    "activities": [
+      "splitting firewood",
+      "stacking wood",
+      "measuring what he'll need for winter"
+    ],
+    "food": [
+      "hot bean soup",
+      "bread",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "Every man looks at his wood-pile with a kind of affection.",
+        "source": "House-Warming"
+      }
+    ],
+    "weather": "cold and clear — perfect splitting weather",
+    "reflection": "The woodpile grew and he felt the winter become less threatening with each log added."
+  },
+  {
+    "id": 96,
+    "date": "1845-10-07",
+    "season": "autumn",
+    "chapter_ref": "The Ponds",
+    "summary": "He rows across Walden and walks to White Pond — another body of water two miles away. He compares it to Walden: similar clarity, similar depth, different character. He decides that every pond is its own personality.",
+    "activities": [
+      "rowing across Walden",
+      "walking to White Pond",
+      "comparison and reflection"
+    ],
+    "food": [
+      "bread packed from home",
+      "pond water at both"
+    ],
+    "quotes": [
+      {
+        "text": "White Pond and Walden are great crystals on the surface of the earth.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "brilliant cold autumn day",
+    "reflection": "He knew every pond within walking distance by temperament as well as by name."
+  },
+  {
+    "id": 97,
+    "date": "1845-10-08",
+    "season": "autumn",
+    "chapter_ref": "House-Warming",
+    "summary": "He plasters the inside of the cabin — filling every crack before winter. The work is painstaking but the result is a noticeable warmth by evening. The cabin holds heat for the first time. He tests every wall with his palm.",
+    "activities": [
+      "interior plastering",
+      "sealing cracks",
+      "testing warmth at evening"
+    ],
+    "food": [
+      "hot bean soup",
+      "bread",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "Before winter I built a chimney, and shingled the sides of my house.",
+        "source": "House-Warming"
+      }
+    ],
+    "weather": "cold — the plastering was necessary now",
+    "reflection": "He built against winter the way you argue against something you respect — firmly and without panic."
+  },
+  {
+    "id": 98,
+    "date": "1845-10-09",
+    "season": "autumn",
+    "chapter_ref": "Solitude",
+    "summary": "A day of pure solitude — no visitors, no trip to town, no particular task. He reads in the morning, walks in the afternoon, sits by the fire in the evening. He decides this is what he came for. This, exactly.",
+    "activities": [
+      "reading",
+      "afternoon walk in the autumn woods",
+      "sitting by the fire"
+    ],
+    "food": [
+      "bread",
+      "dried beans",
+      "hot tea"
+    ],
+    "quotes": [
+      {
+        "text": "I find it wholesome to be alone the greater part of the time.",
+        "source": "Solitude"
+      }
+    ],
+    "weather": "cold and quiet — the woods almost still",
+    "reflection": "Three months in. He had found what he came for and it was simpler than he expected."
+  },
+  {
+    "id": 99,
+    "date": "1845-10-10",
+    "season": "autumn",
+    "chapter_ref": "The Ponds",
+    "summary": "He takes his last measurement of Walden's water temperature before winter. The surface reads 52 degrees — too cold to swim, too cold for most fish near the top. The pond is going deep, going inward, preparing for ice.",
+    "activities": [
+      "final water temperature measurement",
+      "observing the pond preparing for winter",
+      "writing"
+    ],
+    "food": [
+      "hot cornmeal",
+      "dried fish",
+      "tea"
+    ],
+    "quotes": [
+      {
+        "text": "The pond was not frozen over until December.",
+        "source": "The Ponds"
+      }
+    ],
+    "weather": "cold and still, the pond grey-green and serious",
+    "reflection": "He had documented the pond through all its summer moods. Now he would learn its winter."
+  },
+  {
+    "id": 100,
+    "date": "1845-10-11",
+    "season": "autumn",
+    "chapter_ref": "House-Warming",
+    "summary": "Day one hundred. He does not mark it outwardly but writes in his journal: one hundred days. Longer than he expected to feel short. He splits an extra hour of wood. He reads Homer by the fire. He sleeps well. Tomorrow will be day one hundred and one.",
+    "activities": [
+      "extra firewood splitting",
+      "reading Homer",
+      "writing to mark day 100"
+    ],
+    "food": [
+      "a slightly better meal: salt pork, bread, beans, and dried apple"
+    ],
+    "quotes": [
+      {
+        "text": "Not till we have lost the world do we begin to find ourselves.",
+        "source": "Economy"
+      }
+    ],
+    "weather": "cold October evening, fire burning well",
+    "reflection": "One hundred days deliberate. He had barely started."
   }
 ]
