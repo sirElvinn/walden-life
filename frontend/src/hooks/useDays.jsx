@@ -2,8 +2,8 @@ import { useState, useEffect } from 'react'
 
 // No hardcoded localhost — Vite proxies /api → backend automatically.
 // This means the same code works in dev AND in production.
-const API = '/api'
-
+const API = import.meta.env.VITE_API_URL ?? '/api'
+ 
 // ── useDays ───────────────────────────────────────────────────────────────────
 // Fetches the slim list of all days. Used by Timeline.
 // Returns { days, loading, error }
