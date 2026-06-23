@@ -18,8 +18,7 @@ export default function LandingContent() {
       </p>
 
       <blockquote className="max-w-[440px] border-l-2 border-accent py-0 pl-[18px] text-left font-serif text-base italic leading-7 text-text">
-        "I went to the woods because I wished to live deliberately, to front only the
-        essential facts of life."
+        "I went to the woods because I wanted to live deliberately, to live deep and suck out all the marrows of life."
       </blockquote>
 
       <div className="mt-1 flex flex-wrap justify-center gap-3">
