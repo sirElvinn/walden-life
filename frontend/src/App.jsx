@@ -7,12 +7,14 @@ import WaldenMinimap from './components/WaldenMiniMap.jsx'
 
 export default function App() {
   return (
-    <Routes>
-      <Route path="/" element={<Landing />} />
-      <Route path="/timeline" element={<Timeline />} />
-      <Route path="/day/:id" element={<DayView />} />
-      <Route path="*" element={<NotFound />} />
+    <>
+      <Routes>
+        <Route path="/" element={<Landing />} />
+        <Route path="/timeline" element={<Timeline />} />
+        <Route path="/day/:id" element={<DayView />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
       <WaldenMinimap />
-    </Routes>
+    </>
   )
 }
