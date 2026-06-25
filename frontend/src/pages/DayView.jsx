@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { useDay } from '../hooks/useDays'
 
@@ -24,6 +25,13 @@ function capitalize(str) {
 export default function DayView() {
   const { id } = useParams()
   const { day, loading, error } = useDay(id)
+  const [total, setTotal] = useState(null)
+
+  useEffect(() => {
+    fetch(`${import.meta.env.VITE_API_URL ?? '/api'}/total`)
+      .then(r => r.json())
+      .then(d => setTotal(d.total))
+  }, [])
 
   if (loading) {
     return (
@@ -148,10 +156,12 @@ export default function DayView() {
             </Link>
           ) : (
             <div className="pointer-events-none flex items-center gap-2.5 rounded-lg border border-border px-4 py-3.5 opacity-35">
+              <span className="shrink-0 text-lg text-text-dim"></span>
               <span className="flex flex-col gap-0.5">
                 <span className="text-[0.7rem] uppercase tracking-wider text-text-dim">
                   First day
                 </span>
+                <span className="text-[0.88rem] text-text-h">Day {day.id}</span>
               </span>
             </div>
           )}
@@ -163,16 +173,28 @@ export default function DayView() {
             All days
           </Link>
 
-          <Link
-            to={`/day/${nextId}`}
-            className="flex flex-row-reverse items-center gap-2.5 rounded-lg border border-border px-4 py-3.5 text-text no-underline transition-colors hover:border-accent hover:bg-bg-card hover:no-underline"
-          >
-            <span className="shrink-0 text-lg text-text-dim">→</span>
-            <span className="flex flex-col items-end gap-0.5">
-              <span className="text-[0.7rem] uppercase tracking-wider text-text-dim">Next</span>
-              <span className="text-[0.88rem] text-text-h">Day {nextId}</span>
-            </span>
-          </Link>
+          {total === null || nextId <= total ? (
+            <Link
+              to={`/day/${nextId}`}
+              className="flex flex-row-reverse items-center gap-2.5 rounded-lg border border-border px-4 py-3.5 text-text no-underline transition-colors hover:border-accent hover:bg-bg-card hover:no-underline"
+            >
+              <span className="shrink-0 text-lg text-text-dim">→</span>
+              <span className="flex flex-col items-end gap-0.5">
+                <span className="text-[0.7rem] uppercase tracking-wider text-text-dim">Next</span>
+                <span className="text-[0.88rem] text-text-h">Day {nextId}</span>
+              </span>
+            </Link>
+          ) : (
+            <div className="pointer-events-none flex flex-row-reverse items-center gap-2.5 rounded-lg border border-border px-4 py-3.5 opacity-35">
+              <span className="shrink-0 text-lg text-text-dim"></span>
+              <span className="flex flex-col items-end gap-0.5">
+                <span className="text-[0.7rem] uppercase tracking-wider text-text-dim">
+                  Last day
+                </span>
+                <span className="text-[0.88rem] text-text-h">Day {day.id}</span>
+              </span>
+            </div>
+          )}
         </div>
       </footer>
     </main>
