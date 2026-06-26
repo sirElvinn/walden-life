@@ -11,7 +11,7 @@ export default function WaldenMinimap() {
       {/* Thumbnail — bottom right corner */}
       <div
         onClick={() => setOpen(true)}
-        className="fixed bottom-6 right-6 z-50 w-40 h-24 rounded-3xl overflow-hidden border-2 border-accent/60 shadow-lg cursor-pointer transition-transform duration-300 hover:scale-[1.08] hover:border-accent hover:shadow-xl"
+        className="fixed bottom-6 right-6 z-50 w-28 h-28 rounded-[1.75rem] overflow-hidden border-[4px] border-accent/70 shadow-xl cursor-pointer transition-transform duration-300 hover:scale-[1.06] hover:border-accent"
       >
         <img 
           src={MAP_SRC} 
@@ -40,7 +40,6 @@ export default function WaldenMinimap() {
               ✕
             </button>
 
-            {/* ❌ REMOVED the caption */}
           </div>
         </div>
       )}
